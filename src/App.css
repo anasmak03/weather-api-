@@ -1,0 +1,37 @@
+.form1 {
+  display: flex;
+  justify-content: center;
+   
+
+}
+
+
+.title {
+  margin-bottom: 60px;
+}
+body {
+  text-align: center;
+}
+.button {
+  background-color: royalblue;
+  border: 0;
+  padding: 12px 20px;
+  cursor: pointer;
+}
+.input {
+  
+  padding: 14px;
+  width: 60%;
+}
+input:focus{
+ outline: none;
+ 
+}
+.label {
+  display: flex;
+  align-items: center;
+  margin-right: 5px;
+  color: orangered;
+  font-size: 1em;
+  justify-content: center;
+}
